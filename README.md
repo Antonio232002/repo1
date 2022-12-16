@@ -1,2 +1,2 @@
-# repo1
-practice learning git
+# repo1 major update 
+practice learning gitm
